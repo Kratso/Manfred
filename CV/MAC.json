@@ -1,0 +1,340 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Mateo",
+      "surnames": "García Neves ",
+      "title": "#1 Top Fun Fact Machine with added front-end development skills",
+      "description": "I am a front end developer with a fascination with languages(of the human AND machine type) who loves to have a good time laughing and working in teams environments.\nI enjoy pair programming and unit testing all my components.\nI also strive to bring new and exciting fun facts everyday to my teams.",
+      "avatar": {
+        "alt": "20220805_192831-min.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mateo-garc%C3%ADa-neves"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I injured my knee while playing billiards",
+        "fact": "Actual story is a lot less interesting than the headline.\nIt was nothing serious thankfully"
+      },
+      {
+        "topic": "I really enjoy reading on phonetics",
+        "fact": "I can(mostly) re-enact the full IPA chart, and enjoy practicing new consonants and vowels in my free time.\nI also have a thing for \"conlanging\", though I rarely get past the basic design step."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tecdata Engineering"
+        },
+        "roles": [
+          {
+            "name": "Programmer Analyst ",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Front-end developer consultant @ ING.\n\nIn charge of developing, maintaining and promoting some internal components for their propietary library.\n\nHelping guide future development of the assigned pieces and all out assistance in implementation by other teams."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "ES6",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GMV Aerospace "
+        },
+        "roles": [
+          {
+            "name": "Front end Developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "Tech leader for the front end architecture.\nDevelopment of the front-end in a flight dynamics and satellite control web panel"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alebat Education"
+        },
+        "roles": [
+          {
+            "name": "Developer Intern",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Maintenance and new developments for the in-house Educational Platform and it's CMS.\nDevelopment of features for WordPress Plugins.\nMentorship of other Interns."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sinon",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Multiplatform Application Development",
+        "startDate": "2017-09-01",
+        "finishDate": "2019-05-01",
+        "institution": {
+          "name": "IES Lázaro Cárdenas ",
+          "description": "Vocational Training School Degree in Multiplatform Development of Software Applications."
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mateo-garc%C3%ADa-neves"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "ES6",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
