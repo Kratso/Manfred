@@ -13,9 +13,6 @@
       "avatar": {
         "alt": "20220805_192831-min.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
-      },
-      "location": {
-        "notes": "Spain"
       }
     },
     "relevantLinks": [
@@ -186,13 +183,55 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sinon",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
           "type": "technology"
         }
       },
@@ -205,48 +244,6 @@
       {
         "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "LitElement",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Storybook",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sinon",
           "type": "technology"
         }
       }
