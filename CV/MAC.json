@@ -39,6 +39,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Plexus Tech"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Senior Frontend Developer @ OpenBank\n\nLeading Web Development to the new services in different countries for OpenBank."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Zeplin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tecdata Engineering"
         },
         "roles": [
