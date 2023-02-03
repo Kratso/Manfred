@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,8 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
       },
       "location": {
-        "country": "España"
+        "country": "España",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -213,13 +214,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "Japanese",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Portuguese",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -389,6 +397,7 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
