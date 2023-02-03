@@ -13,6 +13,9 @@
       "avatar": {
         "alt": "20220805_192831-min.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
+      },
+      "location": {
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -42,6 +45,7 @@
           {
             "name": "Programmer Analyst ",
             "startDate": "2021-09-01",
+            "finishDate": "2022-12-01",
             "challenges": [
               {
                 "description": "Front-end developer consultant @ ING.\n\nIn charge of developing, maintaining and promoting some internal components for their propietary library.\n\nHelping guide future development of the assigned pieces and all out assistance in implementation by other teams."
@@ -70,6 +74,10 @@
               },
               {
                 "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               }
             ]
@@ -343,6 +351,9 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     }
   }
