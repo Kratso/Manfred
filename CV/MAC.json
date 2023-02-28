@@ -9,7 +9,7 @@
       "name": "Mateo",
       "surnames": "García Neves ",
       "title": "#1 Top Fun Fact Machine with added front-end development skills",
-      "description": "I am a front end developer with a fascination with languages(of the human AND machine type) who loves to have a good time laughing and working in teams environments.\nI enjoy pair programming and unit testing all my components.\nI also strive to bring new and exciting fun facts everyday to my teams.",
+      "description": "",
       "avatar": {
         "alt": "20220805_192831-min.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
@@ -398,6 +398,6 @@
         "Frontend Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   }
 }
