@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,20 +11,14 @@
       "title": "#1 Top Fun Fact Machine with added front-end development skills",
       "description": "I am a front end developer with a fascination with languages(of the human AND machine type) who loves to have a good time laughing and working in teams environments.\nI enjoy pair programming and unit testing all my components.\nI also strive to bring new and exciting fun facts everyday to my teams.",
       "avatar": {
-        "alt": "20220805_192831-min.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/05/d64715b9-38a6-4ee9-b60b-c2ef753eb855_20220805_192831-min.jpg",
+        "alt": "20220805_192831-min.jpg"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/mateo-garc%C3%ADa-neves"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I injured my knee while playing billiards",
@@ -46,6 +40,7 @@
           {
             "name": "Senior Frontend Developer",
             "startDate": "2023-01-01",
+            "finishDate": "2023-03-01",
             "challenges": [
               {
                 "description": "Senior Frontend Developer @ OpenBank\n\nLeading Web Development to the new services in different countries for OpenBank."
@@ -61,7 +56,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
@@ -214,19 +209,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Japanese",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Portuguese",
+        "name": "ES",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "JP",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
         "level": "Full professional proficiency"
       }
     ],
@@ -239,7 +234,19 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -257,7 +264,7 @@
       },
       {
         "skill": {
-          "name": "JSON",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -269,13 +276,7 @@
       },
       {
         "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sinon",
+          "name": "SinonJS",
           "type": "technology"
         }
       },
@@ -290,12 +291,6 @@
           "name": "TypeScript",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -304,11 +299,11 @@
         "degreeAchieved": true,
         "name": "Multiplatform Application Development",
         "startDate": "2017-09-01",
-        "finishDate": "2019-05-01",
         "institution": {
           "name": "IES Lázaro Cárdenas ",
           "description": "Vocational Training School Degree in Multiplatform Development of Software Applications."
         },
+        "finishDate": "2019-05-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -356,14 +351,43 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good intercultural communication",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/mateo-garc%C3%ADa-neves"
+          "URL": "https://www.linkedin.com/in/mateo-garc%C3%ADa-neves",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "kratsothelsamar@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "690174332",
+          "countryCode": "+34"
         }
       ]
     },
@@ -399,5 +423,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would love a job with interesting technology challenges and a fun and enjoyable team environment.\n\nI'd also love a location agnostic workplace as I enjoy being able to work from wherever with little to no planning ahead.\n\nAnd while I'm asking for unicorns, a low bureaucracy environment would be super.",
+    "goodPractices": "TDD\nSOLID\nA propensity to obsess over unit tests"
   }
 }
