@@ -34,6 +34,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "Embat",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/be4d4349-47de-4f6f-844a-2f7a4b30da38_1666256686099.jpg",
+            "alt": "1666256686099.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-09-01",
+            "challenges": [
+              {
+                "description": "Senior Frontend Developer working in the payments module for the application."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Axios",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Plexus Tech"
         },
         "roles": [
