@@ -40,6 +40,39 @@
     "jobs": [
       {
         "organization": {
+          "name": "Best Secret",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/03056ff9-5174-46f3-b45c-1cbc288e51cd_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Embat",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/be4d4349-47de-4f6f-844a-2f7a4b30da38_1666256686099.jpg",
