@@ -198,7 +198,11 @@
       },
       {
         "organization": {
-          "name": "GMV Aerospace "
+          "name": "GMV Aerospace ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/4885d34a-fc6d-4e03-b9a3-b2cd7b1a3731_1200px-gmv_rgbrojone.jpg",
+            "alt": "1200px-GMV_RGBrojo&negro.jpg"
+          }
         },
         "roles": [
           {
