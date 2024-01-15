@@ -147,7 +147,11 @@
       },
       {
         "organization": {
-          "name": "Tecdata Engineering"
+          "name": "Tecdata Engineering",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/b7d69bab-1e12-40bc-88e1-d3fa4a2aa6a1_tecdata_engineering_.jpg",
+            "alt": "tecdata_engineering_logo.jpg"
+          }
         },
         "roles": [
           {
