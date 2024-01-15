@@ -336,6 +336,12 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -464,6 +470,20 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would love a job with interesting technology challenges and a fun and enjoyable team environment.\n\nI'd also love a location agnostic workplace as I enjoy being able to work from wherever with little to no planning ahead.\n\nAnd while I'm asking for unicorns, a low bureaucracy environment would be super.",
     "goodPractices": "TDD\nSOLID\nA propensity to obsess over unit tests"
   }
