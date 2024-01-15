@@ -108,7 +108,11 @@
       },
       {
         "organization": {
-          "name": "Plexus Tech"
+          "name": "Plexus Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/d0dbf8de-d8c7-464c-966a-6433fafa62b5_channels4_profile.jpg",
+            "alt": "channels4_profile.jpg"
+          }
         },
         "roles": [
           {
