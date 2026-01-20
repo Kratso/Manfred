@@ -259,7 +259,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -414,7 +414,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -477,8 +477,11 @@
           "type": "linkedin"
         }
       ],
-      "contactMails": [
-        "kratsothelsamar@gmail.com"
+      "phoneNumbers": [
+        {
+          "number": "690174332",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
